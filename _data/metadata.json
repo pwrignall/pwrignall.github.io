@@ -1,0 +1,25 @@
+{
+  "title": "The Campachoochoo Chronicles",
+  "url": "https://chronicles.campachoochoo.net/",
+  "pathPrefix": "/",
+  "language": "en",
+  "paginationSize": 7,
+  "favicon": "/assets/images/blogprofile.png",
+  "description": "pwrignall's internet space on coding, creations, side projects.",
+  "tags": ["pwrignall", "blog", "coding", "creations", "side-project"],
+  "feed": {
+    "path": "/feed.xml"
+  },
+  "jsonfeed": {
+    "path": "/feed.json"
+  },
+  "author": {
+    "name": "pwrignall",
+    "email": "",
+    "url": "https://github.com/pwrignall/"
+  },
+  "opengraph": {
+    "image": "/assets/images/article.png",
+    "type": "article"
+  }
+}
