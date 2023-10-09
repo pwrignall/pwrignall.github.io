@@ -29,17 +29,17 @@ Having taken some time off exercise after the peak of the summer, it seemed an a
 
 {% figure "/assets/images/coffeeneuring-kick-off/01-strava-map.jpg", "Today's ride details from Strava", "half" %}
 
-This won't be breaking any records anytime soon (I'm not even sure the calorie burn matched the cake intake) but on an unseasonably warm October day with temperatures at around 20&deg;C it was a fantastic way to spend an hour and a bit out of the house.
+This won't be breaking any records anytime soon &mdash; I'm not even sure the calorie burn matched the cake intake &mdash; but on an unseasonably warm October day with temperatures at around 20&deg;C it was a fantastic way to spend an hour and a bit out of the house.
 
-My mid-ride destination was [The Archive](https://thearchive.works/pages/info), a great cycling clubhouse which served me a very good cappuccino and an excellent coffee and walnut cake.
+My mid-ride destination was [The Archive](https://thearchive.works/pages/info), a great cycling clubhouse which served a very good cappuccino and an excellent coffee and walnut cake.
 
 ![Coffee cake and cappuccino](/assets/images/coffeeneuring-kick-off/02-coffee-and-walnut-cake.jpg)
 
-## Enter The Campachoochoo Chronicles
+## Enter the Campachoochoo Chronicles
 
-Since one of the requirements of the challenge is to "document your coffeeneuring", and I've wanted to set up an online space for writing about this kind of thing and more, I took it as a sign to get this done.
+Since one of the requirements of the challenge is to "document your coffeeneuring", and I've wanted to set up an online space for writing about this kind of thing &mdash; and more &mdash; I took it as a sign to get this done.
 
-I'm planning to include the rest of my coffeeneuring exploits as well as: jotting down things I've found interesting that I want to find again later, sharing (hopefully) useful bits of information that aren't easy to find elsewhere, and getting better at writing.
+I'm planning to include the rest of my coffeeneuring exploits as well as: noting things I've found interesting that I want to find again later, sharing (hopefully) useful bits of information that aren't easy to find elsewhere, and getting better at writing.
 
 The "campachoochoo" part of the name is courtesy of Bob Mortimer and one of his ['Train Guy' catchphrases](https://mashable.com/article/bob-mortimer-train-guy). No affiliation with it, I just like the word!
 
