@@ -1,13 +1,14 @@
 ---
 title: Kicking off the 2023 Coffeeneuring Challenge
 description: Documenting my first ride of this year's challenge. Plus cake.
+last_modified_at: 2023-10-09
 tags:
   - cycling
   - coffee
   - coffeeneuring2023
 extraWideMedia: true
 opengraph:
-  image: /assets/images/coffeeneuring-kick-off/01-strava-map.jpg
+  image: /assets/images/coffeeneuring-kick-off/00.jpg
 ---
 
 In a Discord which I'm a member of, someone posted a link to the [2023 Coffeeneuring Challenge](https://chasingmailboxes.com/2023/09/24/coffeeneuring-challenge-2023-lucky-13/). It tickled my interest.
