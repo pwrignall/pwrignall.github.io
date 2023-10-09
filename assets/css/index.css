@@ -71,7 +71,7 @@ h1 {
   color: var(--accent);
 }
 
-/* Use the nice Lora font for headings */
+/* Use the nice Dosis font for headings */
 h1,
 h2,
 h3,
@@ -242,4 +242,10 @@ nav :is(ol, ul) li {
 div.video > iframe {
   aspect-ratio: 16 / 9;
   width: 100%;
+}
+
+/* Fix figure alignment */
+
+figure {
+  text-align: center;
 }
