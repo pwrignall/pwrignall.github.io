@@ -37,7 +37,7 @@ My mid-ride destination was [The Archive](https://thearchive.works/pages/info), 
 
 ## Enter The Campachoochoo Chronicles
 
-Since one of the requirements of the challenge is to "document my coffeeneuring", and I've wanted to set up an online space for writing about this kind of thing and more, I took it as a sign to get this done.
+Since one of the requirements of the challenge is to "document your coffeeneuring", and I've wanted to set up an online space for writing about this kind of thing and more, I took it as a sign to get this done.
 
 I'm planning to include the rest of my coffeeneuring exploits as well as: jotting down things I've found interesting that I want to find again later, sharing (hopefully) useful bits of information that aren't easy to find elsewhere, and getting better at writing.
 
