@@ -1,10 +1,13 @@
 ---
-title: Kicking off the Coffeeneuring Challenge 2023
-description: The first ride of the Lucky 13th Coffeeneuring Challenge
+title: Kicking off the 2023 Coffeeneuring Challenge
+description: Documenting my first ride of this year's challenge. Plus cake.
 tags:
   - cycling
   - coffee
+  - coffeeneuring2023
 extraWideMedia: true
+opengraph:
+  image: /assets/images/coffeeneuring-kick-off/01-strava-map.jpg
 ---
 
 In a Discord which I'm a member of, someone posted a link to the [2023 Coffeeneuring Challenge](https://chasingmailboxes.com/2023/09/24/coffeeneuring-challenge-2023-lucky-13/). It tickled my interest.
@@ -37,6 +40,6 @@ Since one of the requirements of the challenge is to "document my coffeeneuring"
 
 I'm planning to include the rest of my coffeeneuring exploits as well as: jotting down things I've found interesting that I want to find again later, sharing (hopefully) useful bits of information that aren't easy to find elsewhere, and getting better at writing.
 
-The "campachoochoo" part of the name is courtesy of Bob Mortimer and one of his ['Train Guy's catchphrases](https://mashable.com/article/bob-mortimer-train-guy). No affiliation with it, I just like the word!
+The "campachoochoo" part of the name is courtesy of Bob Mortimer and one of his ['Train Guy' catchphrases](https://mashable.com/article/bob-mortimer-train-guy). No affiliation with it, I just like the word!
 
 Thanks to Mendhak's [Eleventy Satisfactory Blog Theme](https://github.com/mendhak/eleventy-satisfactory) and its excellent documentation to help get me going.
