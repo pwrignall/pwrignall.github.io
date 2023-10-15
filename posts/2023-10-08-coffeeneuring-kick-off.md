@@ -1,6 +1,7 @@
 ---
 title: Kicking off the 2023 Coffeeneuring Challenge
 description: Documenting my first ride of this year's challenge. Plus cake.
+date: 2023-10-08
 last_modified_at: 2023-10-09
 tags:
   - cycling
