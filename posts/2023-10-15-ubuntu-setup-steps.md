@@ -2,6 +2,7 @@
 title: Consider these steps when fresh-installing Ubuntu
 description: A quick reference for getting an Ubuntu set-up set up.
 date: 2023-10-15
+last_modified_at: 2023-10-16
 tags:
   - ubuntu
   - python
@@ -15,7 +16,7 @@ opengraph:
 
 Whether freshly installing Ubuntu on a new bit of hardware or within WSL, there are a few steps I like to follow to get the basics set up nicely.
 
-What's here is taken direct from others' prior work but having them here in a single page makes for a helpful _aide-mémoire_.
+These steps are lifted directly from elsewhere but having them here in a single page makes for a helpful checklist.
 
 ## Software/tools
 
