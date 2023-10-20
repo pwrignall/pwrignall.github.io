@@ -9,7 +9,7 @@ tags:
   - coffeeneuring2023
 extraWideMedia: true
 opengraph:
-  image: /assets/images/coffeeneuring-kick-off/00.jpg
+  image: /assets/images/coffeeneuring-2023/2023-10-08_00.jpg
 ---
 
 In a Discord which I'm a member of, someone posted a link to the [2023 Coffeeneuring Challenge](https://chasingmailboxes.com/2023/09/24/coffeeneuring-challenge-2023-lucky-13/). It tickled my interest.
@@ -28,13 +28,13 @@ Having taken some time off exercise after the peak of the summer, it seemed an a
 
 ### Today's ride
 
-{% figure "/assets/images/coffeeneuring-kick-off/01-strava-map.jpg", "Today's ride details from Strava", "half" %}
+{% figure "/assets/images/coffeeneuring-2023/2023-10-08_01-strava-map.jpg", "Today's ride details from Strava", "half" %}
 
 This won't be breaking any records anytime soon &mdash; I'm not even sure the calorie burn matched the cake intake &mdash; but on an unseasonably warm October day with temperatures at around 20&deg;C it was a fantastic way to spend an hour and a bit out of the house.
 
 My mid-ride destination was [The Archive](https://thearchive.works/pages/info), a great cycling clubhouse which served a very good cappuccino and an excellent coffee and walnut cake.
 
-![Coffee cake and cappuccino](/assets/images/coffeeneuring-kick-off/02-coffee-and-walnut-cake.jpg)
+![Coffee cake and cappuccino](/assets/images/coffeeneuring-2023/2023-10-08_02-coffee-and-walnut-cake.jpg)
 
 ## Enter the Campachoochoo Chronicles
 

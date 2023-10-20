@@ -9,7 +9,7 @@ tags:
   - bacon
 extraWideMedia: true
 opengraph:
-  image: /assets/images/coffeeneuring-bacon-bap/00.jpg
+  image: /assets/images/coffeeneuring-2023/2023-10-15_00.jpg
 ---
 
 Continuing the Coffeeneuring Challenge from last week, the sun's still high but the temperature's not.
@@ -21,8 +21,8 @@ What a difference a week makes. Temperatures are a little more seasonal than [la
 Since I was a little short on time today, I just popped to the local recreation ground's café, making sure to meet the challenge's two-mile round trip minimum.
 
 {% gallery %}
-![Today's ride details from Strava](/assets/images/coffeeneuring-bacon-bap/01-strava-map.jpg)
-![A cappuccino and a bacon bap](/assets/images/coffeeneuring-bacon-bap/02-coffee-and-bacon-bap.jpg)
+![Today's ride details from Strava](/assets/images/coffeeneuring-2023/2023-10-15_01-strava-map.jpg)
+![A cappuccino and a bacon bap](/assets/images/coffeeneuring-2023/2023-10-15_02-coffee-and-bacon-bap.jpg)
 {% endgallery %}
 
 Read more about the [2023 Coffeeneuring Challenge](https://chasingmailboxes.com/2023/09/24/coffeeneuring-challenge-2023-lucky-13/).
