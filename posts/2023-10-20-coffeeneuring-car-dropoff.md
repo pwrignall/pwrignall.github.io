@@ -2,6 +2,7 @@
 title: Running errands and a Coffeeneur
 description: .
 date: 2023-10-20
+updated: 2023-10-22
 tags:
   - cycling
   - coffee
@@ -16,11 +17,11 @@ Time for the car's annual MOT and service, so I made it a Coffeeneuring opportun
 ## Today's ride
 
 I packed my fold-up bike into the boot and set off bright and early to drop the car off at the garage.
-I made use of the new automated key drop-off locker system and set off on my way back home.
+I made use of the new automated key drop-off locker system there and set off on my way back home.
 
 Although rain was forecast, fortunately none arrived. There was still plenty of surface water from the last few days.
 
-On route, just outside [The Beehive](https://en.wikipedia.org/wiki/Beehive,_Gatwick_Airport) &mdash; Gatwick's original terminal building &mdash; I stopped at Flavours Deli for a cappuccino served by the friendly lady there.
+On route, just outside [The Beehive](https://en.wikipedia.org/wiki/Beehive,_Gatwick_Airport) &mdash; Gatwick's original terminal building &mdash; I stopped at Flavours Deli for a cappuccino served by the friendly lady there. And then home.
 
 ![Enjoying a cappuccino at Flavours Deli](/assets/images/coffeeneuring-2023/2023-10-20_01-coffee-at-flavours.jpg)
 
