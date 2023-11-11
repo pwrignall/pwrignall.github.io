@@ -1,5 +1,5 @@
 ---
-title: A coffeeneuring commute
+title: A Coffeeneuring commute
 description: Sneaking in a Coffeeneur on my commute.
 date: 2023-11-01
 last_modified_at: 2023-11-11
