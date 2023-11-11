@@ -66,7 +66,7 @@ module.exports = function (eleventyConfig) {
 
   // Date used below posts
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat("dd LLL yyyy");
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat("ccc d LLL yyyy");
   });
 
   // Date used in sitemap and data attribute
