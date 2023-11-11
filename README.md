@@ -4,9 +4,21 @@
 
 An [Eleventy](https://11ty.dev) blog making use of the [Eleventy Satisfactory](https://github.com/mendhak/eleventy-satisfactory) theme.
 
-Keeping some of the notes from the theme's README here for quick reference.
+## Images
+
+Strip EXIF data with exiftool:
+
+```bash
+exiftool -overwrite_original -all= assets/images/...image.jpg
+```
+
+For opengraph images, resize to 1200px by 675px.
+
 
 ## How to run the blog locally
+
+(Keeping some of the notes from the theme's README here for quick reference.)
+
 
 **Running it with Node**
 
@@ -51,3 +63,4 @@ The posts go in the `posts` folder. Drafts can go in the `drafts` folder and wil
 - [Add videos and audio](https://code.mendhak.com/eleventy-satisfactory/post-with-iframes-videos-third-party/)
 - [Controlling extra-wide images, videos, code blocks](https://code.mendhak.com/eleventy-satisfactory/extra-wide-full-width-images-videos/)
 - [Set Opengraph preview image and metadata](https://code.mendhak.com/eleventy-satisfactory/opengraph-preview-data/)
+

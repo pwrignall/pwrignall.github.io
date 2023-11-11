@@ -2,9 +2,12 @@
 layout: layouts/base.njk
 ---
 
+<p><time datetime="{{ (page.date) | htmlDateString }}">{{ (page.date) | readableDate }}</time></p>
 
 <article>
 {{ content | safe }}
 </article>
 
-<p><time datetime="{{ (last_modified_at or page.date) | htmlDateString }}">Updated: {{ (last_modified_at or page.date) | readableDate }}</time></p>
+{% if last_modified_at %}
+<p><time datetime="{{ (last_modified_at) | htmlDateString }}">Updated: {{ (last_modified_at) | readableDate }}</time></p>
+{% endif %}
