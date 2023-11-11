@@ -27,3 +27,5 @@ Thankfully the rain had eased from earlier and, apart from getting beeped by an 
 ![A lovely coffee spot](/assets/images/coffeeneuring-2023/2023-11-01_01-amwell-street.jpg)
 
 One cappuccino plus one cheese and ham toastie later, I was good to go!
+
+Read more about the [2023 Coffeeneuring Challenge](https://chasingmailboxes.com/2023/09/24/coffeeneuring-challenge-2023-lucky-13/).
