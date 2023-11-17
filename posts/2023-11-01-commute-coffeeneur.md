@@ -2,7 +2,7 @@
 title: A Coffeeneuring commute
 description: Sneaking in a Coffeeneur on my commute.
 date: 2023-11-01
-last_modified_at: 2023-11-11
+last_modified_at: 2023-11-17
 tags:
   - cycling
   - coffee
@@ -15,6 +15,8 @@ opengraph:
 Sneaking in a Coffeeneur during my commute to the office in central London.
 
 _(Writing this up ten days after it took place, I just didn't get around to it.)_
+
+## Today's ride
 
 It was a miserable, rain-filled morning, and I got soaked on the ten-minute ride from home to my local railway station. I planned to take a fast train to Victoria and try **Omotesando Koffee** on my way to the office in EC2. This plan disintegrated with railway signalling problems.
 
