@@ -32,7 +32,7 @@ Having taken some time off exercise after the peak of the summer, it seemed an a
 
 This won't be breaking any records anytime soon &mdash; I'm not even sure the calorie burn matched the cake intake &mdash; but on an unseasonably warm October day with temperatures at around 20&deg;C it was a fantastic way to spend an hour and a bit out of the house.
 
-My mid-ride destination was [The Archive](https://thearchive.works/pages/info), a great cycling clubhouse which served a very good cappuccino and an excellent coffee and walnut cake.
+My mid-ride destination was **[The Archive](https://thearchive.works/pages/info)**, a great cycling clubhouse which served a very good cappuccino and an excellent coffee and walnut cake.
 
 ![Coffee cake and cappuccino](/assets/images/coffeeneuring-2023/2023-10-08_02-coffee-and-walnut-cake.jpg)
 
