@@ -21,7 +21,7 @@ I made use of the new automated key drop-off locker system there and set off on 
 
 Although rain was forecast, fortunately none arrived. There was still plenty of surface water from the last few days.
 
-On route, just outside [The Beehive](https://en.wikipedia.org/wiki/Beehive,_Gatwick_Airport) &mdash; Gatwick's original terminal building &mdash; I stopped at Flavours Deli for a cappuccino served by the friendly lady there. And then home.
+On route, just outside [The Beehive](https://en.wikipedia.org/wiki/Beehive,_Gatwick_Airport) &mdash; Gatwick's original terminal building &mdash; I stopped at **Flavours Deli** for a cappuccino served by the friendly lady there. And then home.
 
 ![Enjoying a cappuccino at Flavours Deli](/assets/images/coffeeneuring-2023/2023-10-20_01-coffee-at-flavours.jpg)
 
