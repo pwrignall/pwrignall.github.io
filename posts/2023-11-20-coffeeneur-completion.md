@@ -23,7 +23,7 @@ So, I continued in the direction of **Chalk Hills Bakery**, a kiosk attached to 
 
 ![Coffee al fresco](/assets/images/coffeeneuring-2023/2023-11-20_01-chalk-hills.jpg)
 
-So, that's it, an end to a thoroughly enjoyable challenge which I expected to complete with a little more room to spare and saw me:
+So, that's it, an end to a thoroughly enjoyable challenge which I expected to complete with a little more time to spare but saw me:
 
 - Cycle 67.6 kilometres over seven rides
 - Consume five cappuccinos (campachoochoos), one cortado and one flat white 
