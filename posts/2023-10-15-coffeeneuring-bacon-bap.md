@@ -2,6 +2,7 @@
 title: Coffeeneuring 2023 - Ride 2
 description: Continuing my 2023 Coffeeneuring venture with a bacon bap.
 date: 2023-10-15
+last_modified_at: 2023-11-20
 tags:
   - cycling
   - coffee
@@ -20,9 +21,6 @@ What a difference a week makes. Temperatures are a little more seasonal than [la
 
 Since I was a little short on time today, I just popped to the local recreation ground's café, making sure to meet the challenge's two-mile round trip minimum.
 
-{% gallery %}
-![Today's ride details from Strava](/assets/images/coffeeneuring-2023/2023-10-15_01-strava-map.jpg)
-![A cappuccino and a bacon bap](/assets/images/coffeeneuring-2023/2023-10-15_02-coffee-and-bacon-bap.jpg)
-{% endgallery %}
+![A bacon bap and a cappuccino](/assets/images/coffeeneuring-2023/2023-10-15_01-coffee-and-bacon-bap.jpg)
 
 Read more about the [2023 Coffeeneuring Challenge](https://chasingmailboxes.com/2023/09/24/coffeeneuring-challenge-2023-lucky-13/).
