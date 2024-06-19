@@ -10,7 +10,7 @@
     :root {
         --fg-color: rgb(221, 233, 243);
         --bg-color: rgb(23, 24, 27);
-        --bg-secondary-color: rgb(23, 29, 48);
+        --bg-secondary-color: rgb(18, 22, 36);
         --link-color: rgb(110, 194, 250);
         --link-visited-color: rgb(197, 163, 197);
     }
@@ -18,19 +18,24 @@
 }
 
 body {
-    background: linear-gradient(90deg, var(--bg-color) 30%, var(--bg-secondary-color) 70%);
+    background: linear-gradient(90deg, var(--bg-secondary-color) 10%, var(--bg-color) 60%);
     color: var(--fg-color);
     font-size: 20px;
-    font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+    font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif; 
 }
 
 h1 {
-    text-align: center;
+    padding: 0 0.1rem;
+}
+
+h2, h3, h4, h5, h6 {
+    margin: 3rem 0 0;
 }
 
 main {
     max-width: 800px;
     margin: 0 auto;
+    padding: 0 0.1rem;
 }
 
 a {
@@ -40,6 +45,10 @@ a {
 
 a:visited {
     color: var(--link-visited-color);
+}
+
+a:hover {
+    text-decoration: underline dotted;
 }
 
 a:visited img {
@@ -56,7 +65,7 @@ a:visited img {
 }
 
 ul {
-    padding: 0 1rem;
+    padding: 0;
 }
 
 li {
