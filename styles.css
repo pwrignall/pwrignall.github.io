@@ -1,0 +1,75 @@
+:root {
+    --fg-color: rgb(23, 23, 27);
+    --bg-color: rgb(253, 255, 236);
+    --bg-secondary-color: rgb(242, 255, 236);
+    --accent-color: rgb(3, 132, 218);
+    --secondary-color: rgb(143, 98, 121);
+}
+
+@media (prefers-color-scheme: light) {
+
+    .github::after {
+        background: url("/images/github-mark.svg") no-repeat;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --fg-color: rgb(221, 233, 243);
+        --bg-color: rgb(23, 24, 27);
+        --bg-secondary-color: rgb(23, 29, 48);
+        --accent-color: rgb(110, 194, 250);
+        --secondary-color: rgb(197, 163, 197);
+    }
+
+    .github {
+        visibility: hidden;
+        position: relative;
+    }
+
+    .github::after {
+        background: url("/images/github-mark-white.svg") no-repeat;
+    }
+
+}
+
+body {
+    background: linear-gradient(90deg, var(--bg-color) 15%, var(--bg-secondary-color) 85%);
+    color: var(--fg-color);
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 6rem;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+a {
+    color: var(--accent-color);
+    text-decoration: underline 1px dotted;
+}
+
+a:visited {
+    color: var(--secondary-color);
+}
+
+.github {
+    visibility: hidden;
+    position: relative;
+}
+
+.github::after {
+    content: ' ';
+    visibility: visible;
+    background-size: 1rem;
+    width: 1rem;
+    height: 1rem;
+    position: absolute;
+    top: 0.3rem;
+    left: 0.3rem;
+}
