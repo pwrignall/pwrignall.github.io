@@ -1,75 +1,90 @@
 :root {
-    --fg-color: rgb(23, 23, 27);
-    --bg-color: rgb(253, 255, 236);
-    --bg-secondary-color: rgb(232, 254, 222);
-    --link-color: rgb(3, 132, 218);
-    --link-visited-color: rgb(143, 98, 121);
+  --fg-color: rgb(23, 23, 27);
+  --bg-color: rgb(253, 255, 236);
+  --bg-secondary-color: rgb(232, 254, 222);
+  --link-color: rgb(3, 132, 218);
+  --link-visited-color: rgb(143, 98, 121);
+  --fg-accent: rgb(132, 139, 67);
 }
 
 @media (prefers-color-scheme: dark) {
-    :root {
-        --fg-color: rgb(221, 233, 243);
-        --bg-color: rgb(23, 24, 27);
-        --bg-secondary-color: rgb(18, 22, 36);
-        --link-color: rgb(110, 194, 250);
-        --link-visited-color: rgb(197, 163, 197);
-    }
-
+  :root {
+    --fg-color: rgb(221, 233, 243);
+    --bg-color: rgb(23, 24, 27);
+    --bg-secondary-color: rgb(18, 22, 36);
+    --link-color: rgb(110, 194, 250);
+    --link-visited-color: rgb(197, 163, 197);
+    --fg-accent: rgb(89, 106, 167);
+  }
 }
 
 body {
-    background: linear-gradient(90deg, var(--bg-secondary-color) 10%, var(--bg-color) 60%);
-    color: var(--fg-color);
-    font-size: 20px;
-    font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif; 
+  background: linear-gradient(
+    90deg,
+    var(--bg-secondary-color) 10%,
+    var(--bg-color) 60%
+  );
+  color: var(--fg-color);
+  font-size: 20px;
+  font-family: ui-rounded, "Hiragino Maru Gothic ProN", Quicksand, Comfortaa,
+    Manjari, "Arial Rounded MT", "Arial Rounded MT Bold", Calibri,
+    source-sans-pro, sans-serif;
 }
 
 h1 {
-    padding: 0 0.1rem;
+  padding: 0 0.1rem;
 }
 
-h2, h3, h4, h5, h6 {
-    margin: 3rem 0 0;
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 3rem 0 0;
 }
 
 main {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 0.1rem;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 0.1rem;
 }
 
 a {
-    color: var(--link-color);
-    text-decoration: none;
+  color: var(--link-color);
+  text-decoration: none;
 }
 
 a:visited {
-    color: var(--link-visited-color);
+  color: var(--link-visited-color);
 }
 
 a:hover {
-    text-decoration: underline dotted;
+  text-decoration: underline dotted;
 }
 
 a:visited img {
-    background-color: var(--link-visited-color);
+  background-color: var(--link-visited-color);
 }
 
 .github img {
-    width: 0.8rem;
-    height: 0.8rem;
-    background-color: var(--link-color);
-    padding: 0.1rem;
-    border-radius: 0.2rem;
-    vertical-align: middle;
+  width: 0.8rem;
+  height: 0.8rem;
+  background-color: var(--link-color);
+  padding: 0.1rem;
+  border-radius: 0.2rem;
+  vertical-align: middle;
 }
 
 ul {
-    padding: 0;
+  padding: 0;
 }
 
 li {
-    margin-bottom: 0.5rem;
-    display: flex;
-    justify-content: space-between;
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  border-left: 1px solid var(--fg-accent);
+  border-right: 1px solid var(--fg-accent);
+  border-radius: 0.4rem;
+  padding: 0 0.5rem;
 }
