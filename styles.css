@@ -1,28 +1,26 @@
 :root {
-  --fg-color: rgb(23, 23, 27);
+  --fg-color: hsl(150, 10%, 20%);
   --bg-color: rgb(253, 255, 236);
   --bg-secondary-color: rgb(232, 254, 222);
   --link-color: rgb(3, 132, 218);
   --link-visited-color: rgb(143, 98, 121);
-  --fg-accent: rgb(132, 139, 67);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --fg-color: rgb(221, 233, 243);
-    --bg-color: rgb(23, 24, 27);
-    --bg-secondary-color: rgb(18, 22, 36);
+    --fg-color: hsl(207, 30%, 80%);
+    --bg-color: hsl(222, 30%, 25%);
+    --bg-secondary-color: hsl(222, 30%, 15%);
     --link-color: rgb(110, 194, 250);
     --link-visited-color: rgb(197, 163, 197);
-    --fg-accent: rgb(89, 106, 167);
   }
 }
 
 body {
   background: linear-gradient(
     90deg,
-    var(--bg-secondary-color) 10%,
-    var(--bg-color) 60%
+    var(--bg-secondary-color) 30%,
+    var(--bg-color) 80%
   );
   color: var(--fg-color);
   font-size: 20px;
@@ -80,11 +78,11 @@ ul {
 }
 
 li {
-  margin-bottom: 0.5rem;
   display: flex;
   justify-content: space-between;
-  border-left: 1px solid var(--fg-accent);
-  border-right: 1px solid var(--fg-accent);
-  border-radius: 0.4rem;
-  padding: 0 0.5rem;
+  padding: 0.8rem;
+}
+
+li:nth-child(odd) {
+  background-color: var(--bg-secondary-color);
 }
