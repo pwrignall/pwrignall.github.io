@@ -50,7 +50,7 @@ header, main {
   padding: 0 1rem;
 }
 
-header {
+header a {
   display: flex;
   justify-content: space-between;
   align-items: center;
