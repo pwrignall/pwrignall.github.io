@@ -1,16 +1,18 @@
 :root {
   --fg-color: hsl(150, 10%, 20%);
-  --bg-color: rgb(253, 255, 236);
-  --bg-secondary-color: rgb(232, 254, 222);
+  --bg-color: rgb(223, 201, 187);
+  --bg-secondary-color: rgb(160, 175, 172);
+  --card-color: hsl(0, 0%, 100%);
   --link-color: rgb(3, 132, 218);
   --link-visited-color: rgb(143, 98, 121);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --fg-color: hsl(207, 30%, 80%);
-    --bg-color: hsl(222, 30%, 25%);
+    --fg-color: hsl(206, 90%, 92%);
+    --bg-color: hsl(223, 29%, 42%);
     --bg-secondary-color: hsl(222, 30%, 15%);
+    --card-color: hsl(224, 74%, 6%);
     --link-color: rgb(110, 194, 250);
     --link-visited-color: rgb(197, 163, 197);
   }
@@ -18,15 +20,16 @@
 
 body {
   background: linear-gradient(
-    90deg,
-    var(--bg-secondary-color) 30%,
-    var(--bg-color) 80%
+    var(--bg-color) 20%,
+    var(--bg-secondary-color) 80%
   );
   color: var(--fg-color);
   font-size: 20px;
   font-family: ui-rounded, "Hiragino Maru Gothic ProN", Quicksand, Comfortaa,
     Manjari, "Arial Rounded MT", "Arial Rounded MT Bold", Calibri,
     source-sans-pro, sans-serif;
+    min-height: 100vh;
+    margin: 0;
 }
 
 h1 {
@@ -41,10 +44,16 @@ h6 {
   margin: 3rem 0 0;
 }
 
-main {
+header, main {
   max-width: 800px;
   margin: 0 auto;
-  padding: 0 0.1rem;
+  padding: 0 1rem;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 a {
@@ -60,29 +69,23 @@ a:hover {
   text-decoration: underline dotted;
 }
 
-a:visited img {
-  background-color: var(--link-visited-color);
-}
-
-.github img {
-  width: 0.8rem;
-  height: 0.8rem;
-  background-color: var(--link-color);
-  padding: 0.1rem;
-  border-radius: 0.2rem;
-  vertical-align: middle;
-}
-
 ul {
   padding: 0;
+  margin: 0;
 }
 
 li {
-  display: flex;
-  justify-content: space-between;
-  padding: 0.8rem;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  list-style-type: none;
 }
 
-li:nth-child(odd) {
-  background-color: var(--bg-secondary-color);
-}
+ li a {
+  border: 2px solid var(--fg-color);
+  display: block;
+  padding: 0.8rem 0.6rem;
+  background-color: var(--card-color);
+  border-radius: 1.5rem;
+  margin: 0.8rem auto;
+ }
