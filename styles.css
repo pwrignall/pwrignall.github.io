@@ -89,3 +89,9 @@ li {
   border-radius: 1.5rem;
   margin: 0.8rem auto;
  }
+
+ img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 1.5rem;
+ }
