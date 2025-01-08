@@ -1,0 +1,63 @@
+User-agent: *
+Disallow: /
+
+# Using https://radar.cloudflare.com/traffic/verified-bots
+
+# Search engine crawlers
+
+User-agent: GoogleBot
+Disallow: 
+
+User-agent: BingBot
+Disallow: 
+
+User-agent: YandexBot
+Disallow: 
+
+User-agent: Baidu
+Disallow: 
+
+User-agent: DuckDuckBot
+Disallow: 
+
+User-agent: Seekport
+Disallow: 
+
+User-agent: Sogou
+Disallow: 
+
+User-agent: Seznam
+Disallow: 
+
+User-agent: Cốc Cốc
+Disallow: 
+
+User-agent: Yeti by Naver
+Disallow: 
+
+User-agent: Dataprovider.com
+Disallow: 
+
+User-agent: Yahoo Slurp
+Disallow: 
+
+User-agent: ZoomInfo
+Disallow: 
+
+User-agent: MSN
+Disallow: 
+
+User-agent: Coveo Bot
+Disallow: 
+
+User-agent: Mojeek
+Disallow: 
+
+User-agent: Marginalia Search
+Disallow: 
+
+User-agent: Qwantbot
+Disallow: 
+
+User-agent: Mars Finder
+Disallow: 
